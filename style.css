@@ -1,0 +1,166 @@
+#slider
+{
+	
+	background-image:url('img/2.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+#navbar 
+{
+	background-color:transparent;
+	
+}
+#navbar a
+{
+	font-family:‘Lucida Console’, Monaco, monospace;
+	font-weight:bold;
+	font-size:130%;
+}
+	#last
+	{
+	background-color:#171818;
+	padding:40px;
+	}
+	#last p,#last h2
+	{
+	color:white;
+	}
+	#last input,#last textarea
+	{
+	background-color:#2C3030;
+	margin-top:10px;
+	margin-bottom:10px;
+	color:black;
+	font-weight:bold;
+	}
+	#last input:hover,#last textarea:hover
+	{
+	background-color:#EBF4DE;
+	}
+	#last button
+	{
+	background-color:transparent;
+	border:solid white 1px;
+	}
+	#last button:hover
+	{
+	background-color:green;
+	}
+	#footer
+	{
+		background-color:black;
+		padding:20px;
+	}
+	#footer ul li a i
+	{
+		
+		border-radius:50%;
+		padding:10px;
+		font-size:140%;
+		color:#ADE2B0;
+	}
+	#footer ul li a i.fa-rss:hover
+	{
+		background-color:#F56505;
+		font-size:170%;
+	}
+	#footer ul li a i.fa-facebook:hover
+	{
+		background-color:#3B5998;
+		font-size:170%;
+	}
+	#footer ul li a i.fa-twitter:hover
+	{
+		background-color:#33ccff;
+		font-size:170%;
+	}
+	#footer ul li a i.fa-google-plus:hover
+	{
+		background-color:#BD3518;
+		font-size:170%;
+	}
+	#footer ul li a i.fa-linkedin:hover
+	{
+		background-color:#0590B8;
+		font-size:170%;
+	}
+	#team
+	{
+		background-color:#A6D6A8;
+		padding:100px;
+	}
+	#team h1
+	{
+		padding-bottom:70px;
+	}
+	#team ul li i:hover
+	{
+		font-size:130%;
+		background-color:yellow;
+		border-radius:50%;
+	}
+	#about
+	{
+		background-image:url('img/8.jpg');
+		
+	}
+	#about img
+	{
+		padding:30px;transform:rotate(-3deg);width:70%;height:70%
+	}
+	
+	#about h4 p
+	{
+		padding:10px;
+	}
+	#about p
+	{
+		word-spacing:6px;
+		line-height:30px;
+	}
+	#gallery  
+	{
+		background-color:#526849;
+		padding-bottom:20px;
+	}
+
+	#slider button
+	{
+		background-color:transparent;
+		padding-left:100px;
+		padding-right:100px;
+		
+	}
+	#slider button:hover
+	{
+		background-color:#4A4F64;
+	}
+	#slider h1
+	{
+		color:#E4F3CC;
+		font-family:Copperplate Gothic Light, sans-serif;
+		font-size:250%;
+		word-spacing:30px;
+		
+	}
+	#slider p
+	{
+		text-align:center;
+		color:#F7ECF4;
+		font-size:150%;
+		font-family:Courier New, Courier, monospace;
+		word-spacing:20px;
+		line-height:50px;
+	}
+	#navMobile ul li a
+	{
+		color:white;
+	}
+	#navMobile ul li a:hover
+	{
+		color:#C67F6A;
+		background-color:black;
+		border-radius:5px;
+	}
+	
